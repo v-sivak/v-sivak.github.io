@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Vladimir Sivak blog
+github_username: v-sivak
+email: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
